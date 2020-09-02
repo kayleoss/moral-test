@@ -10,8 +10,8 @@ The goal is to search various sources of info (twitter, news sites, google, bing
 
 Dependencies:
 
-excel editor 
-selenium 
+\n openpyxl
+\n selenium 
 
 
 
